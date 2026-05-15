@@ -28,10 +28,10 @@ Comprehensive Python-based dashboard for analysing portfolio performance metrics
 - Equity curve and drawdown visualisations
 - Risk-adjusted returns (Sharpe ratio, Sortino ratio, Calmar ratio)
 - Period-by-period and cumulative performance breakdown
-- Automated PDF/HTML report generation
+- Automated Markdown reporting and SVG chart generation
 
 **Tech Stack:** Python, pandas, NumPy, matplotlib  
-**Use Case:** Pension funds, wealth managers, retail traders (demo/backtesting data)
+**Use Case:** Portfolio reporting, backtesting review, performance monitoring and analyst-style reporting
 
 ---
 
@@ -68,9 +68,9 @@ Framework for automated KPI calculation and report generation, focusing on SaaS 
 
 | Area | Tools & Libraries |
 |------|-------------------|
-| **Programming** | Python (core), SQL (data queries) |
+| **Programming** | Python (core), SQL fundamentals |
 | **Data Analysis** | pandas, NumPy, SciPy |
-| **Visualisation** | matplotlib, seaborn |
+| **Visualisation** | matplotlib |
 | **Finance Concepts** | Portfolio metrics, VaR/CVaR, performance attribution, risk management |
 | **Reporting** | Excel automation, PDF generation, Jupyter notebooks |
 | **Version Control** | Git, GitHub |
@@ -80,7 +80,7 @@ Framework for automated KPI calculation and report generation, focusing on SaaS 
 ## Current Focus & Learning
 
 **Near-term priorities:**
-- Expanding to real market data sources (Yahoo Finance API, Quandl, vendor feeds)
+- Expanding to real market data sources (Yahoo Finance, FRED and Bank of England datasets)
 - Unit testing and CI/CD practices for financial code
 - Enhanced documentation and reproducible workflows
 - Quantitative strategy research and backtesting
