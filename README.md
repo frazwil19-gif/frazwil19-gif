@@ -98,8 +98,8 @@ Framework for automated KPI calculation and report generation, focusing on SaaS 
 
 I'm interested in opportunities in **finance analytics**, **risk analysis**, **quantitative research** and **data-driven financial services**.
 
-- **LinkedIn:** [Add your LinkedIn profile URL here – e.g. https://linkedin.com/in/yourprofile]
-- **Email:** [Your email address]
+- **LinkedIn:** [www.linkedin.com/in/fraser-wilson](https://www.linkedin.com/in/fraser-wilson)
+- **Email:** frazwil19@gmail.com
 - **GitHub:** [My repositories](https://github.com/frazwil19-gif)
 
 Feel free to explore my projects, raise issues, or discuss ideas.
