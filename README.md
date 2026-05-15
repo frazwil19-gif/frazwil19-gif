@@ -45,8 +45,8 @@ Risk analytics library covering institutional and retail portfolio applications:
 - Exposure and concentration analysis
 - Drawdown and recovery metrics
 
-**Tech Stack:** Python, NumPy, SciPy, pandas  
-**Business Relevance:** Risk oversight, regulatory reporting, portfolio stress testing
+**Tech Stack:** Python, pandas, NumPy, matplotlib  
+**Business Relevance:** Risk oversight, portfolio stress testing, exposure monitoring
 
 ---
 
@@ -59,7 +59,7 @@ Framework for automated KPI calculation and report generation, focusing on SaaS 
 - Automated CSV/Excel output and scheduled report generation
 - Data pipeline and aggregation patterns
 
-**Tech Stack:** Python, pandas, openpyxl  
+**Tech Stack:** Python, pandas, NumPy, matplotlib  
 **Business Relevance:** FinTech operations, investor reporting, financial services analytics
 
 ---
@@ -72,7 +72,7 @@ Framework for automated KPI calculation and report generation, focusing on SaaS 
 | **Data Analysis** | pandas, NumPy, SciPy |
 | **Visualisation** | matplotlib |
 | **Finance Concepts** | Portfolio metrics, VaR/CVaR, performance attribution, risk management |
-| **Reporting** | Excel automation, PDF generation, Jupyter notebooks |
+| **Reporting** | Excel-based analysis, Markdown reports, automated chart outputs, Jupyter notebooks |
 | **Version Control** | Git, GitHub |
 
 ---
